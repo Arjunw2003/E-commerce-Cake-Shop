@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:F472B6&height=240&section=header&text=E-Commerce%20Cake%20Shop&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Online%20Cake%20Ordering%20System%20|%20PHP%20|%20MySQL&descAlignY=60"/>
+</p>
 # 🎂 E-Commerce Cake Shop
 
 An online Cake Shop web application developed using **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**. This project allows users to browse cakes, add products to the cart, place orders, and manage customer information.
